@@ -1,10 +1,10 @@
 /* Custom Variables | Color Scheme */
 
 :root {
-  --primary: #ffd166;
-  --text-light: #eeeeee;
-  --background: #0d1b2a;
-  --background-light: #1b263b;
+  --primary: ##89b4fa;
+  --text-light: #cdd6f4;
+  --background: #1e1e2e;
+  --background-light: #313244;
 }
 
 *,
