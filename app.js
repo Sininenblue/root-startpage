@@ -25,6 +25,12 @@ const CARDS = [
     link: "https://www.youtube.com/",
     color: "#FF0000",
   },
+  {
+    name: "Neo",
+    icon: "ri-book-2-fill",
+    link: "https://urios.neolms.com/user_dashboard",
+    color: "#5ddee2",
+  },
 ];
 
 /* -------------------------------------------------------- */
